@@ -9,12 +9,12 @@
   <img class="width: 120;" src="images/lua.png" width="28px" height="28px">
   <img class="width: 120;" src="images/html.svg" width="28px" height="28px">
   <img class="width: 120;" src="images/css.svg" width="28px" height="28px">
-  <img class="width: 120;" src="images/js.svg" width="28px" height="28px">
   <img class="width: 120;" src="images/git.svg" width="28px" height="28px">
 </div>
 
 ## Currently Learning:
 <div class="display: flex">
+  <img class="width: 120;" src="images/js.svg" width="28px" height="28px">
   <img class="width: 120;" src="images/python.svg" width="28px" height="28px">
   <img class="width: 120;" src="images/sql.svg" width="28px" height="28px">
   <img class="width: 120;" src="images/bootstrap.svg" width="28px" height="28px">
