@@ -6,7 +6,7 @@
 
 ## Languages & Technologies:
 <div class="display: flex">
-  <img class="width: 120;" src="images/lua.svg" width="28px" height="28px">
+  <img class="width: 120;" src="images/lua.png" width="28px" height="28px">
   <img class="width: 120;" src="images/html.svg" width="28px" height="28px">
   <img class="width: 120;" src="images/css.svg" width="28px" height="28px">
   <img class="width: 120;" src="images/js.svg" width="28px" height="28px">
