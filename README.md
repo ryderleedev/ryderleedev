@@ -15,10 +15,11 @@
 ## Currently Learning:
 <div class="display: flex">
   <img class="width: 120;" src="images/js.svg" width="28px" height="28px">
-  <img class="width: 120;" src="images/python.svg" width="28px" height="28px">
   <img class="width: 120;" src="images/sql.svg" width="28px" height="28px">
   <img class="width: 120;" src="images/bootstrap.svg" width="28px" height="28px">
+  <img class="width: 120;" src="images/tailwind.png" width="28px" height="28px">
   <img class="width: 120;" src="images/react.svg" width="28px" height="28px">
+  <img class="width: 120;" src="images/python.svg" width="28px" height="28px">
 </div>
 
 ## Future Learning Endeavors:
